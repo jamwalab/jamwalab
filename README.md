@@ -2,10 +2,10 @@
 
 ### Hi, I’m Abhishek 👋
 
-Full Stack Web Developer,  currently pursuing an intensive web development coding certificate from the University of Toronto. Experience in back-end design, database management, and creating automated solutions. A team player, with good communication and problem-solving skills. Passionate about programming, with a strong ability to design, build and maintain websites from ideation to production. An eager learner, with seven years of experience working in the Supply Chain Industry.
+Full Stack Web Developer, currently pursuing an intensive web development coding certificate from the University of Toronto. Experience in back-end design, database management, and creating automated solutions. A team player, with good communication and problem-solving skills. Passionate about programming, with a strong ability to design, build and maintain websites from ideation to production. An eager learner, with seven years of experience working in the Supply Chain Industry.
 
 - 🔭 I’m currently working on a group project and some personal projects.
-- 🌱 I’m currently learning AWS abd Python.
+- 🌱 I’m currently learning AWS and Python.
 - 💞️ I’m looking to collaborate on full stack web apps!
 
 ## Connect with me
