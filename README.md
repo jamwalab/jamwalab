@@ -14,7 +14,7 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
   <span><a href="mailto:jamwalab@live.com" rel="noreferrer">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="html"> 
   </a></span>
-  <span><a href="www.linkedin.com/in/abhishekj-21"> 
+  <span><a href="https://linkedin.com/in/abhishekj-21"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="html">
   </a></span>
   <span><a href="http://jamwalab.me"> 
