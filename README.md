@@ -40,15 +40,7 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 
 ## My Stats
 <p align="center">
-    <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="myStats"> 
-    <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="topLanguages"> 
-    <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamwalab&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="myStats"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="topLanguages"> 
 </p>
 
-<p align="left">
-<a href="https://github.com/jamwalab">
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamwalab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamwalab&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-</p>
