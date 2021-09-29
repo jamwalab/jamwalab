@@ -37,3 +37,6 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"> 
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"> 
 </p>
+
+## My Stats
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=radical)
