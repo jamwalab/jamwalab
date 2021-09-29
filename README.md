@@ -41,6 +41,9 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 ## My Stats
 <p>
   <span><a href="https://github.com/jamwalab" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="readmeStats"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="myStats"> 
+  </a></span>
+  <span><a href="https://github.com/jamwalab" rel="noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="topLanguages"> 
   </a></span>
 </p>
