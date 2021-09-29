@@ -8,7 +8,7 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 - 🌱 I’m currently learning AWS and Python.
 - 💞️ I’m looking to collaborate on full stack web apps!
 
-## Connect with me
+## 📫 Connect with me
 
 <p>
   <span><a href="mailto:jamwalab@live.com" rel="noreferrer">
@@ -20,7 +20,7 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 </p>
 
 
-## Languages and Tools
+## 🔭 Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">    
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"> 
@@ -38,9 +38,9 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"> 
 </p>
 
-## My Stats
+## ⚡ My Stats
 <p align="left">
     <img height="165px" src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="myStats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="topLanguages"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamwalab&layout=compact&theme=tokyonight" alt="topLanguages"> 
 </p>
 
