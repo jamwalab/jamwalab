@@ -39,4 +39,4 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 </p>
 
 ## My Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight)
