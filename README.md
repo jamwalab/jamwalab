@@ -40,10 +40,6 @@ Full Stack Web Developer, with bootcamp certificate in web development from the 
 
 ## My Stats
 <div>
-  <span>
     <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=jamwalab&show_icons=true&theme=tokyonight" alt="myStats"> 
-  </span>
-  <span>
     <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" alt="topLanguages"> 
-  </span>
 </div>
