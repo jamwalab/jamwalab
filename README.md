@@ -2,11 +2,11 @@
 
 ### Hi, I’m Abhishek 👋
 
-Full Stack Web Developer, with bootcamp certificate in web development from the University of Toronto. Experienced in back-end and front-end design, database management, and creating automated solutions. A team player, with good communication and problem-solving skills. Passionate about programming, with a strong ability to design, build and maintain websites from ideation to production. An eager learner, with seven years of experience working in the Supply Chain Industry.
-
-- 🔭 I’m currently working on a group project and some personal projects.
-- 🌱 I’m currently learning AWS and Python.
-- 💞️ I’m looking to collaborate on full stack web apps!
+* Full stack developer with a Bootcamp certificate in coding from the University of Toronto.
+* Experienced in building scalable web applications, responsive web UI, RESTful APIs, and database management.
+* Programming enthusiast, with an ability to design, build and maintain applications from ideation to production.
+* Quick learner with strong analytical skills, problem-solving skills, and an interest in learning new technologies.
+* Good communication and problem-solving skills, with the ability to work individually and independently.
 
 ## 📫 Connect with me
 
