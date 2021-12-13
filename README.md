@@ -6,7 +6,6 @@
 * Experienced in building scalable web applications, responsive web UI, RESTful APIs, and database management.
 * Programming enthusiast, with an ability to design, build and maintain applications from ideation to production.
 * Quick learner with strong analytical skills, problem-solving skills, and an interest in learning new technologies.
-* Good communication and problem-solving skills, with the ability to work individually and independently.
 
 ## 📫 Connect with me
 
