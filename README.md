@@ -40,9 +40,4 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"> 
 </p>
 
-## ⚡ My Stats
-<p align="left">
-    <img height="165px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamwalab&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" alt="myStats"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamwalab&layout=compact&theme=tokyonight" alt="topLanguages"> 
-</p>
 
